@@ -1,9 +1,9 @@
 // Default directory path
-const data_directory = "./data"
-const schema_directory = "./data/schema"
+const data_directory = "/data"
+const schema_directory = "/data/schema"
 
 async function loadJsonFile(filepath) {
-    const response = await fetch();
+    const response = await fetch(filepath);
 
     if(!response.ok) {
         throw new Error(`Failed to fetch ${filepath}: ${response.statusText}`)
@@ -12,7 +12,7 @@ async function loadJsonFile(filepath) {
     return response.json();
 }
 
-async function getValidatedJsonFile(file) {
+export async function getValidatedJsonFile(file) {
     const [data, schema] = await Promise.all([
         loadJsonFile(data_directory + "/" + file),
         loadJsonFile(schema_directory + "/" + file)

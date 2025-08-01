@@ -1,4 +1,4 @@
-import { getValidatedJsonFile } from './javascript/util.js';
+import { getValidatedJsonFile } from './util.js';
 
 // Get data from data directory
 const facility = await getValidatedJsonFile("facility.json");

@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Assembling Machine Mk.I",
+        "Type": "Assembler",
+        "ProductionSpeed": 0.75,
+        "PowerConsumptionWork": 270.00,
+        "PowerConsumptionIdle": 12.00
+    },
+    {
+        "Name": "Assembling Machine Mk.II",
+        "Type": "Assembler",
+        "ProductionSpeed": 1.00,
+        "PowerConsumptionWork": 540.00,
+        "PowerConsumptionIdle": 18.00
+    },
+    {
+        "Name": "Assembling Machine Mk.III",
+        "Type": "Assembler",
+        "ProductionSpeed": 1.50,
+        "PowerConsumptionWork": 1080.00,
+        "PowerConsumptionIdle": 24.00
+    },
+    {
+        "Name": "Arc Smelter",
+        "Type": "Smelter",
+        "ProductionSpeed": 1.00,
+        "PowerConsumptionWork": 360.00,
+        "PowerConsumptionIdle": 12.00
+    },
+    {
+        "Name": "Plane Smelter",
+        "Type": "Smelter",
+        "ProductionSpeed": 2.00,
+        "PowerConsumptionWork": 1440.00,
+        "PowerConsumptionIdle": 48.00
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Iron Ingot",
+        "ProductionTime": 1.00,
+        "MainRecipe": ""
+    },
+    {
+        "Name": "Copper Ingot",
+        "ProductionTime": 1.00,
+        "MainRecipe": ""
+    },
+    {
+        "Name": "High-Purity Silicon",
+        "ProductionTime": 2.00,
+        "MainRecipe": ""
+    }
+]

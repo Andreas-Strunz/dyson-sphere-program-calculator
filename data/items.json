@@ -1,0 +1,1199 @@
+[
+    {
+        "Name": "Tesla Tower",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/df/Tesla_Tower.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 1
+    },
+    {
+        "Name": "Wireless Power Tower",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/d9/Wireless_Power_Tower.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 2
+    },
+    {
+        "Name": "Satellite Substation",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/2b/Satellite_Substation.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 3
+    },
+    {
+        "Name": "Wind Turbine",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3e/Wind_Turbine.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 4
+    },
+    {
+        "Name": "Thermal Power Plant",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/24/Thermal_Power_Plant.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 5
+    },
+    {
+        "Name": "Solar Panel",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/5d/Solar_Panel.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 6
+    },
+    {
+        "Name": "Geothermal Power Station",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/56/Geothermal_Power_Station.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 7
+    },
+    {
+        "Name": "Mini Fusion Power Plant",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/9f/Mini_Fusion_Power_Plant.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 8
+    },
+    {
+        "Name": "Energy Exchanger",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/84/Energy_Exchanger.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 9
+    },
+    {
+        "Name": "Accumulator",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/82/Accumulator.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 10
+    },
+    {
+        "Name": "Ray Receiver",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/2b/Ray_Receiver.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 11
+    },
+    {
+        "Name": "Artificial Star",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e7/Artificial_Star.png",
+        "Type": "Building",
+        "Row": 1,
+        "Column": 12
+    },
+    {
+        "Name": "Conveyor Belt MK.I",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/1d/Conveyor_Belt_MK.I.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 1
+    },
+    {
+        "Name": "Conveyor Belt MK.II",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/ff/Conveyor_Belt_MK.II.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 2
+    },
+    {
+        "Name": "Conveyor Belt MK.III",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e0/Conveyor_Belt_MK.III.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 3
+    },
+    {
+        "Name": "Splitter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3f/Splitter.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 4
+    },
+    {
+        "Name": "Automatic Piler",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e8/Automatic_Piler.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 5
+    },
+    {
+        "Name": "Traffic Monitor",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a4/Traffic_Monitor.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 6
+    },
+    {
+        "Name": "Spray Coater",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/f5/Spray_Coater.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 7
+    },
+    {
+        "Name": "Depot MK.I",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/7c/Depot_MK.I.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 8
+    },
+    {
+        "Name": "Depot MK.II",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/c4/Depot_MK.II.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 9
+    },
+    {
+        "Name": "Storage Tank",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/43/Storage_Tank.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 10
+    },
+    {
+        "Name": "Logistics Distributor",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/83/Logistics_Distributor.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 11
+    },
+    {
+        "Name": "Planetary Logistics Station",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/cb/Planetary_Logistics_Station.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 12
+    },
+    {
+        "Name": "Interstellar Logistics Station",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/57/Interstellar_Logistics_Station.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 13
+    },
+    {
+        "Name": "Orbital Collector",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/4f/Orbital_Collector.png",
+        "Type": "Building",
+        "Row": 2,
+        "Column": 14
+    },
+    {
+        "Name": "Sorter MK.I",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/f9/Sorter_MK.I.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 1
+    },
+    {
+        "Name": "Sorter MK.II",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a5/Sorter_MK.II.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 2
+    },
+    {
+        "Name": "Sorter MK.III",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/83/Sorter_MK.III.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 3
+    },
+    {
+        "Name": "Pile Sorter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/76/Pile_Sorter.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 4
+    },
+    {
+        "Name": "Mining Machine",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/1b/Mining_Machine.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 5
+    },
+    {
+        "Name": "Advanced Mining Machine",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/15/Advanced_Mining_Machine.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 6
+    },
+    {
+        "Name": "Water Pump",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/28/Water_Pump.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 7
+    },
+    {
+        "Name": "Oil Extractor",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/21/Oil_Extractor.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 8
+    },
+    {
+        "Name": "Oil Refinery",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/25/Oil_Refinery.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 9
+    },
+    {
+        "Name": "Fractionator",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/42/Fractionator.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 10
+    },
+    {
+        "Name": "Chemical Plant",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/65/Chemical_Plant.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 11
+    },
+    {
+        "Name": "Quantum Chemical Plant",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/4c/Quantum_Chemical_Plant.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 12
+    },
+    {
+        "Name": "Miniature Particle Collider",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/f1/Miniature_Particle_Collider.png",
+        "Type": "Building",
+        "Row": 3,
+        "Column": 13
+    },
+    {
+        "Name": "Arc Smelter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/91/Arc_Smelter.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 1
+    },
+    {
+        "Name": "Plane Smelter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/50/Plane_Smelter.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 2
+    },
+    {
+        "Name": "Negentropy Smelter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e8/Negentropy_Smelter.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 3
+    },
+    {
+        "Name": "Assembling Machine Mk.I",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/d4/Assembling_Machine_Mk.I.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 4
+    },
+    {
+        "Name": "Assembling Machine Mk.II",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/ff/Assembling_Machine_Mk.II.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 5
+    },
+    {
+        "Name": "Assembling Machine Mk.III",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/5b/Assembling_Machine_Mk.III.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 6
+    },
+    {
+        "Name": "Re-Composing Assembler",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a0/Re-Composing_Assembler.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 7
+    },
+    {
+        "Name": "Matrix Lab",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/92/Matrix_Lab.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 8
+    },
+    {
+        "Name": "Self-Evolution Lab",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/df/Self-Evolution_Lab.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 9
+    },
+    {
+        "Name": "EM-Rail Ejector",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/1f/EM-Rail_Ejector.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 10
+    },
+    {
+        "Name": "Vertical Launching Silo",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/4e/Vertical_Launching_Silo.png",
+        "Type": "Building",
+        "Row": 4,
+        "Column": 11
+    },
+    {
+        "Name": "Gauss Turret",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/de/Gauss_Turret.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 1
+    },
+    {
+        "Name": "Missile Turret",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a4/Missile_Turret.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 2
+    },
+    {
+        "Name": "Implosion Cannon",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/87/Implosion_Cannon.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 3
+    },
+    {
+        "Name": "Laser Turret",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/ed/Laser_Turret.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 4
+    },
+    {
+        "Name": "Plasma Turret",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/40/Plasma_Turret.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 5
+    },
+    {
+        "Name": "SR Plasma Turret",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/c5/SR_Plasma_Turret.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 6
+    },
+    {
+        "Name": "Battlefield Analysis Base",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/b/b0/Battlefield_Analysis_Base.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 7
+    },
+    {
+        "Name": "Jammer Tower",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/12/Jammer_Tower.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 8
+    },
+    {
+        "Name": "Signal Tower",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/74/Signal_Tower.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 9
+    },
+    {
+        "Name": "Planetary Shield Generator",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/03/Planetary_Shield_Generator.png",
+        "Type": "Building",
+        "Row": 5,
+        "Column": 10
+    },
+    {
+        "Name": "Iron Ore",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/87/Iron_Ore.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 1
+    },
+    {
+        "Name": "Copper Ore",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/78/Copper_Ore.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 2
+    },
+    {
+        "Name": "Stone",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/d4/Stone.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 3
+    },
+    {
+        "Name": "Coal",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a7/Coal.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 4
+    },
+    {
+        "Name": "Silicon Ore",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/32/Silicon_Ore.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 5
+    },
+    {
+        "Name": "Titanium Ore",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/34/Titanium_Ore.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 6
+    },
+    {
+        "Name": "Water",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/9d/Water.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 7
+    },
+    {
+        "Name": "Crude Oil",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/60/Crude_Oil.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 8
+    },
+    {
+        "Name": "Hydrogen",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/ed/Hydrogen.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 9
+    },
+    {
+        "Name": "Deuterium",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a9/Deuterium.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 10
+    },
+    {
+        "Name": "Antimatter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/cd/Antimatter.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 11
+    },
+    {
+        "Name": "Core Element",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/95/Core_Element.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 12
+    },
+    {
+        "Name": "Critical Photon",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/f8/Critical_Photon.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 13
+    },
+    {
+        "Name": "Kimberlite Ore",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/0a/Kimberlite_Ore.png",
+        "Type": "Resource",
+        "Row": 1,
+        "Column": 14
+    },
+    {
+        "Name": "Iron Ingot",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/0a/Iron_Ingot.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 1
+    },
+    {
+        "Name": "Copper Ingot",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/00/Copper_Ingot.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 2
+    },
+    {
+        "Name": "Stone Brick",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/6d/Stone_Brick.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 3
+    },
+    {
+        "Name": "Energetic Graphite",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/cb/Energetic_Graphite.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 4
+    },
+    {
+        "Name": "High-Purity Silicon",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/b/b0/High-Purity_Silicon.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 5
+    },
+    {
+        "Name": "Titanium Ingot",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/61/Titanium_Ingot.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 6
+    },
+    {
+        "Name": "Sulfuric Acid",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/8e/Sulfuric_Acid.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 7
+    },
+    {
+        "Name": "Refined Oil",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/56/Refined_Oil.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 8
+    },
+    {
+        "Name": "Hydrogen Fuel Rod",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/75/Hydrogen_Fuel_Rod.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 9
+    },
+    {
+        "Name": "Deuteron Fuel Rod",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/73/Deuteron_Fuel_Rod.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 10
+    },
+    {
+        "Name": "Antimatter Fuel Rod",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/8e/Antimatter_Fuel_Rod.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 11
+    },
+    {
+        "Name": "Strange Annihilation Fuel Rod",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/7c/Strange_Annihilation_Fuel_Rod.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 12
+    },
+    {
+        "Name": "Missile Set",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/48/Missile_Set.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 13
+    },
+    {
+        "Name": "Fractal Silicon",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a4/Fractal_Silicon.png",
+        "Type": "Item",
+        "Row": 1,
+        "Column": 14
+    },
+    {
+        "Name": "Magnet",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/8c/Magnet.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 1
+    },
+    {
+        "Name": "Magnetic Coil",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/af/Magnetic_Coil.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 2
+    },
+    {
+        "Name": "Glass",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/15/Glass.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 3
+    },
+    {
+        "Name": "Diamond",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/ea/Diamond.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 4
+    },
+    {
+        "Name": "Crystal Silicon",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/73/Crystal_Silicon.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 5
+    },
+    {
+        "Name": "Titanium Alloy",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/d2/Titanium_Alloy.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 6
+    },
+    {
+        "Name": "Combustible Unit",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/91/Combustible_Unit.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 7
+    },
+    {
+        "Name": "Plastic",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/0b/Plastic.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 8
+    },
+    {
+        "Name": "Organic Crystal",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/36/Organic_Crystal.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 9
+    },
+    {
+        "Name": "Graphene",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/ab/Graphene.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 10
+    },
+    {
+        "Name": "Annihilation Constraint Sphere",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/81/Annihilation_Constraint_Sphere.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 11
+    },
+    {
+        "Name": "Magnum Ammo Box",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/d7/Magnum_Ammo_Box.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 12
+    },
+    {
+        "Name": "Supersonic Missile Set",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/08/Supersonic_Missile_Set.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 13
+    },
+    {
+        "Name": "Grating Crystal",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/31/Grating_Crystal.png",
+        "Type": "Item",
+        "Row": 2,
+        "Column": 14
+    },
+    {
+        "Name": "Steel",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/c9/Steel.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 1
+    },
+    {
+        "Name": "Circuit Board",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a7/Circuit_Board.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 2
+    },
+    {
+        "Name": "Prism",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a8/Prism.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 3
+    },
+    {
+        "Name": "Electric Motor",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/c3/Electric_Motor.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 4
+    },
+    {
+        "Name": "Microcrystalline Component",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/73/Microcrystalline_Component.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 5
+    },
+    {
+        "Name": "Proliferator Mk.I",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/84/Proliferator_Mk.I.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 6
+    },
+    {
+        "Name": "Explosive Unit",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a2/Explosive_Unit.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 7
+    },
+    {
+        "Name": "Strange Matter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/73/Strange_Matter.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 8
+    },
+    {
+        "Name": "Titanium Crystal",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/b/ba/Titanium_Crystal.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 9
+    },
+    {
+        "Name": "Carbon Nanotube",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/b/be/Carbon_Nanotube.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 10
+    },
+    {
+        "Name": "Particle Broadband",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a7/Particle_Broadband.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 11
+    },
+    {
+        "Name": "Titanium Ammo Box",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/95/Titanium_Ammo_Box.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 12
+    },
+    {
+        "Name": "Gravity Missile Set",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a8/Gravity_Missile_Set.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 13
+    },
+    {
+        "Name": "Stalagmite Crystal",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3d/Stalagmite_Crystal.png",
+        "Type": "Item",
+        "Row": 3,
+        "Column": 14
+    },
+    {
+        "Name": "Gear",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/06/Gear.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 1
+    },
+    {
+        "Name": "Plasma Exciter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/42/Plasma_Exciter.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 2
+    },
+    {
+        "Name": "Photon Combiner",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/6c/Photon_Combiner.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 3
+    },
+    {
+        "Name": "Electromagnetic Turbine",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3f/Electromagnetic_Turbine.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 4
+    },
+    {
+        "Name": "Processor",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/4e/Processor.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 5
+    },
+    {
+        "Name": "Proliferator Mk.II",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/b/bc/Proliferator_Mk.II.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 6
+    },
+    {
+        "Name": "Crystal Explosive Unit",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/ea/Crystal_Explosive_Unit.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 7
+    },
+    {
+        "Name": "Casimir Crystal",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/49/Casimir_Crystal.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 8
+    },
+    {
+        "Name": "Titanium Glass",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/1c/Titanium_Glass.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 9
+    },
+    {
+        "Name": "Plane Filter",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/88/Plane_Filter.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 10
+    },
+    {
+        "Name": "Quantum Chip",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/61/Quantum_Chip.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 11
+    },
+    {
+        "Name": "Superalloy Ammo Box",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/39/Superalloy_Ammo_Box.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 12
+    },
+    {
+        "Name": "Shell Set",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/74/Shell_Set.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 13
+    },
+    {
+        "Name": "Unipolar Magnet",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/5/59/Unipolar_Magnet.png",
+        "Type": "Item",
+        "Row": 4,
+        "Column": 14
+    },
+    {
+        "Name": "Engine",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/27/Engine.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 1
+    },
+    {
+        "Name": "Thruster",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/62/Thruster.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 2
+    },
+    {
+        "Name": "Reinforced Thruster",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/25/Reinforced_Thruster.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 3
+    },
+    {
+        "Name": "Super-Magnetic Ring",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/b/b9/Super-Magnetic_Ring.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 4
+    },
+    {
+        "Name": "Particle Container",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/98/Particle_Container.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 5
+    },
+    {
+        "Name": "Proliferator Mk.III",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/a2/Proliferator_Mk.III.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 6
+    },
+    {
+        "Name": "Prototype",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/31/Prototype.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 7
+    },
+    {
+        "Name": "Precision Drone",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/6/66/Precision_Drone.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 8
+    },
+    {
+        "Name": "Attack Drone",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/ea/Attack_Drone.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 9
+    },
+    {
+        "Name": "Corvette",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/32/Corvette.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 10
+    },
+    {
+        "Name": "Destroyer",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3a/Destroyer.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 12
+    },
+    {
+        "Name": "Plasma Capsule",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/2e/Plasma_Capsule.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 13
+    },
+    {
+        "Name": "High-Explosive Shell Set",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/ae/High-Explosive_Shell_Set.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 14
+    },
+    {
+        "Name": "Fire Ice",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e8/Fire_Ice.png",
+        "Type": "Item",
+        "Row": 5,
+        "Column": 15
+    },
+    {
+        "Name": "Logistics Bot",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/78/Logistics_Bot.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 1
+    },
+    {
+        "Name": "Logistics Drone",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/0c/Logistics_Drone.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 2
+    },
+    {
+        "Name": "Interstellar Logistics Vessel",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/7b/Interstellar_Logistics_Vessel.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 3
+    },
+    {
+        "Name": "Space Warper",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/0c/Space_Warper.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 4
+    },
+    {
+        "Name": "Graviton Lens",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/8/89/Graviton_Lens.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 5
+    },
+    {
+        "Name": "Foundation",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3b/Foundation.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 6
+    },
+    {
+        "Name": "Solar Sail",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/2/25/Solar_Sail.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 8
+    },
+    {
+        "Name": "Frame Material",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/c3/Frame_Material.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 9
+    },
+    {
+        "Name": "Dyson Sphere Component",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/0b/Dyson_Sphere_Component.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 10
+    },
+    {
+        "Name": "Small Carrier Rocket",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/9/93/Small_Carrier_Rocket.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 11
+    },
+    {
+        "Name": "Antimatter Capsule",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/37/Antimatter_Capsule.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 12
+    },
+    {
+        "Name": "Crystal Shell Set",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/03/Crystal_Shell_Set.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 13
+    },
+    {
+        "Name": "Log",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e0/Log.png",
+        "Type": "Item",
+        "Row": 6,
+        "Column": 14
+    },
+    {
+        "Name": "Electromagnetic Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/cd/Electromagnetic_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 1
+    },
+    {
+        "Name": "Energy Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/c/c5/Energy_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 2
+    },
+    {
+        "Name": "Structure Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/7/7a/Structure_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 3
+    },
+    {
+        "Name": "Information Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/f/fe/Information_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 4
+    },
+    {
+        "Name": "Gravity Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/ad/Gravity_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 5
+    },
+    {
+        "Name": "Universe Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/4/46/Universe_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 6
+    },
+    {
+        "Name": "Dark Fog Matrix",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/e6/Dark_Fog_Matrix.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 7
+    },
+    {
+        "Name": "Energy Shard",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/af/Energy_Shard.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 8
+    },
+    {
+        "Name": "Silicon-Based Neuron",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/d/d4/Silicon-Based_Neuron.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 9
+    },
+    {
+        "Name": "Negentropy Singularity",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/0/05/Negentropy_Singularity.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 10
+    },
+    {
+        "Name": "Matter Recombinator",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/a/ac/Matter_Recombinator.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 11
+    },
+    {
+        "Name": "Jamming Capsule",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/3/3f/Jamming_Capsule.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 12
+    },
+    {
+        "Name": "Suppressing Capsule",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/e/ea/Suppressing_Capsule.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 13
+    },
+    {
+        "Name": "Plant Fuel",
+        "Icon": "https://static.wikia.nocookie.net/dyson-sphere-program/images/1/17/Plant_Fuel.png",
+        "Type": "Item",
+        "Row": 7,
+        "Column": 14
+    }
+]

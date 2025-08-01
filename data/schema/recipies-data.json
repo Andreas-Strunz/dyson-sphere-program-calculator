@@ -1,0 +1,29 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "array",
+    "properties": {
+        "Recipe": {
+            "type": "string"
+        },
+        "Type": {
+            "type": "string",
+            "enum": [
+                "Input",
+                "Output"
+            ]
+        },
+        "Position": {
+            "type": "integer"
+        },
+        "Item": {
+            "type": "string"
+        },
+        "Amount": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "Name",
+        "Position"
+    ]
+}

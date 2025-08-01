@@ -1,0 +1,30 @@
+[
+    {
+        "Recipe": "Iron Ingot",
+        "Type": "Input",
+        "Position": 1,
+        "Item": "Iron Ore",
+        "Amount": 1.00
+    },
+    {
+        "Recipe": "Iron Ingot",
+        "Type": "Output",
+        "Position": 1,
+        "Item": "Iron Ingot",
+        "Amount": 1.00
+    },
+    {
+        "Recipe": "Copper Ingot",
+        "Type": "Input",
+        "Position": 1,
+        "Item": "Copper Ore",
+        "Amount": 1.00
+    },
+    {
+        "Recipe": "Copper Ingot",
+        "Type": "Output",
+        "Position": 1,
+        "Item": "Copper Ingot",
+        "Amount": 1.00
+    }
+]

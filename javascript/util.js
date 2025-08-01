@@ -1,6 +1,6 @@
 // Default directory path
-const data_directory = "../data"
-const schema_directory = "../data/schema"
+const data_directory = "./data"
+const schema_directory = "./data/schema"
 
 async function loadJsonFile(filepath) {
     const response = await fetch(filepath);
